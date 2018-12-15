@@ -1,4 +1,4 @@
-# 10DaysofJavascript
+# HackerRank 10 Days of Javascript 
 ## Day 0 Data Types  
 ## Day 1 Function . 
 ## Day 2 Conditional Statements  
