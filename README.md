@@ -4,4 +4,5 @@
 ## Day 2 Conditional Statements  
 ## Day 2 Consitional Statements Switch
 ## Day 3 Arrays  
+## Day 3 Try, Catch, and Finally
 ## Day 4 Count Object  
